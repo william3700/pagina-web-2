@@ -10,5 +10,5 @@ import { CommonModule } from '@angular/common';
   styleUrl: './inicio.component.css'
 })
 export class InicioComponent {
-      item=['Pelicula 1','Pelicula 2','Pelicula 3','Pelicula 4','Pelicula 5','Pelicula 6','Pelicula 7','Pelicula 8','Pelicula 9','Pelicula 10']
+      item=['Pelicula 1','Pelicula 2','Pelicula 3','Pelicula 4','Pelicula 5','Pelicula 6','Pelicula 7','Pelicula 8','Pelicula 9','Pelicula 10','Pelicula 11']
 }
